@@ -1,4 +1,4 @@
-# Crypto AML Detection
+# Crypto AML Checker
 
 This repository contains tools and algorithms for detecting Anti-Money Laundering (AML) activities in cryptocurrency transactions. The project uses machine learning and blockchain data analysis to help identify suspicious activities and ensure compliance with AML regulations.
 
