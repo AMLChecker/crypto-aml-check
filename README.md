@@ -18,5 +18,5 @@ This repository contains tools and algorithms for detecting Anti-Money Launderin
 - Give a ⭐️ if you like the project.
 - Follow the repository to stay updated!
 
-### 🤝 Join the Discussion!
+## 🤝 Join the Discussion:
 Be an active participant! Head over to the "Issues" or "Discussions" sections and share your thoughts.
