@@ -21,6 +21,12 @@ If you like the project, share it on social media:
 <a href="https://twitter.com/intent/tweet?url=https://github.com/AMLChecker&text=Check out this awesome repository AMLChecker on GitHub!" target="_blank">
     <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FAMLChecker" alt="Share on Twitter" />
 </a>
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://github.com/AMLChecker" target="_blank">
+    <img src="https://img.shields.io/badge/Share_on-Facebook-blue" alt="Share on Facebook" />
+</a>
+<a href="https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/AMLChecker&title=AMLChecker&summary=Check out this awesome repository AMLChecker on GitHub!" target="_blank">
+    <img src="https://img.shields.io/badge/Share_on-LinkedIn-blue" alt="Share on LinkedIn" />
+</a>
 
 ## 📌 Don’t Forget:
 - Give a ⭐️ if you like the project.
