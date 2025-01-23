@@ -1,4 +1,4 @@
-# Crypto AML Checker ![GitHub stars](https://img.shields.io/github/stars/AMLChecker/crypto-aml-check?style=for-the-badge) ![GitHub forks](https://img.shields.io/github/forks/AMLChecker/crypto-aml-check?style=for-the-badge)
+# Crypto AML Checker ![GitHub stars](https://img.shields.io/github/stars/AMLChecker/crypto-aml-check?style=flat-square) ![GitHub forks](https://img.shields.io/github/forks/AMLChecker/crypto-aml-check?style=flat)
 This repository contains tools and algorithms for detecting Anti-Money Laundering (AML) activities in cryptocurrency transactions. The project uses machine learning and blockchain data analysis to help identify suspicious activities and ensure compliance with AML regulations.
 
 ## Features:
