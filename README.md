@@ -30,7 +30,7 @@ If you like the project, share it on social media:
 </a>
 
 ## 📌 Don’t Forget:
-- Give a ⭐️ if you like the project.
+- Give a ⭐️ if you like the project
 - Follow the repository to stay updated!
 
 ## 🤝 Join the Discussion:
