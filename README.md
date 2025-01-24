@@ -38,3 +38,6 @@ If you like the project, share it on social media:
 
 ## 🤝 Join the Discussion:
 Be an active participant! Head over to the "Issues" or "Discussions" sections and share your thoughts.
+
+## 🔔 Disclaimer
+We take no responsibility for any potential violations or repository suspensions on GitHub related to the use or distribution of this code. We strongly recommend adhering to all platform rules and terms of service, as well as respecting copyrights and software licenses. Use of this repository is at your own risk.
