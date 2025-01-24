@@ -3,7 +3,7 @@ This repository contains tools and algorithms for detecting Anti-Money Launderin
 
 ![GitHub stars](https://img.shields.io/github/stars/AMLChecker/crypto-aml-check?style=flat-square) ![GitHub forks](https://img.shields.io/github/forks/AMLChecker/crypto-aml-check?style=flat)
 
-## ✅ Features:
+## ✅ Features
 - Detection of anomalous cryptocurrency transactions
 - Integration with multiple blockchains
 - Risk prediction using machine learning algorithms
