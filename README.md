@@ -3,20 +3,23 @@ This repository contains tools and algorithms for detecting Anti-Money Launderin
 
 ![GitHub stars](https://img.shields.io/github/stars/AMLChecker/crypto-aml-check?style=flat-square) ![GitHub forks](https://img.shields.io/github/forks/AMLChecker/crypto-aml-check?style=flat)
 
-## Features:
+## ✅ Features:
 - Detection of anomalous cryptocurrency transactions
 - Integration with multiple blockchains
 - Risk prediction using machine learning algorithms
 - Generation of compliance reports
 - Real-time monitoring of suspicious activities
 
-## Website Link
+## 🔗 Website Link
 - AML Checker Link: https://aml.coinbnb.tech
 - 10 Free Checks Are Available for You
   
 ![aml-checker](https://github.com/user-attachments/assets/d20d26f4-722e-4552-a491-d7cbf136589d)
 
-## Share
+## 🤖 Telegram Bot
+- Telegram Bot Link: https://t.me/amlsitecheckerbot or @amlsitecheckerbot
+
+## ✍ Share
 If you like the project, share it on social media:
 
 <a href="https://twitter.com/intent/tweet?url=https://github.com/AMLChecker/crypto-aml-check&text=Check out this awesome repository AML Crypto Checker on GitHub!" target="_blank">
