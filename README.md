@@ -34,11 +34,11 @@ If you like the project, share it on social media:
     <img src="https://img.shields.io/badge/Share_on-LinkedIn-blue" alt="LinkedIn" />
 </a>
 
-## 📌 Don’t Forget:
+## 📌 Don’t Forget
 - Give a ⭐️ if you like the project
 - Follow the repository to stay updated!
 
-## 🤝 Join the Discussion:
+## 🤝 Join the Discussion
 Be an active participant! Head over to the "Issues" or "Discussions" sections and share your thoughts.
 
 ## 🔔 Disclaimer
