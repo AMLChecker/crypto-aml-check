@@ -13,7 +13,7 @@ This repository contains tools and algorithms for detecting Anti-Money Launderin
 - Real-time monitoring of suspicious activities
 
 ## 🔗 Website Link
-- AML Checker Link: [https://amlsecure.click](https://amlsecure.click)
+- AML Checker Link: [https://metasec.online/](https://metasec.online/)
 - 10 Free Checks Are Available for You
   
 ![aml-checker](https://github.com/user-attachments/assets/d20d26f4-722e-4552-a491-d7cbf136589d)
